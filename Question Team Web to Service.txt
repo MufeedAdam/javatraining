@@ -34,7 +34,7 @@ b. Applet is painted,started,stopped,initilaized,destroyed
 c. Applet is initialized,started,painted,stopped,destroyed - correct
 d. None of the above
 -----------------------------------------------------------------------
-7)  Which method is used to suspend threads that don’t need to run when the applet is not visible? 
+7)  Which method is used to suspend threads that donâ€™t need to run when the applet is not visible? 
 
 a. destroy()
 b. paint()
