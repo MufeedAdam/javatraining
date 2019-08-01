@@ -1,0 +1,57 @@
+1)   An applet can play an audio file represented by the AudioClip interface in the java, applet package Causes the audio clip to replay continually in which method?
+a. public void play()
+b. public void loop() - correct
+c. public void stop()
+d. None of the above
+-----------------------------------------------------------------------
+2)  Applet works at client side so less response time. 
+a. True - correct
+b. False
+-----------------------------------------------------------------------
+3) Which method is called only once during the run time of your applet? 
+
+a. stop()
+b. paint()
+c. init() - correct
+d. destroy()
+-----------------------------------------------------------------------
+4)  Which is a special type of program that is embedded in the webpage to generate the dynamic content? 
+
+a. Package
+b. Applet - correct
+c. Browser
+d. None of the above
+-----------------------------------------------------------------------
+5)  What is used to run an Applet? 
+a. An html file
+b. An AppletViewer tool(for testing purpose)
+c. Both A & B - correct
+d. None of the above
+-----------------------------------------------------------------------
+6)  Which is the correct order of lifecycle in an applet? 
+a. Applet is started,initialized,painted,destroyed,stopped
+b. Applet is painted,started,stopped,initilaized,destroyed
+c. Applet is initialized,started,painted,stopped,destroyed - correct
+d. None of the above
+-----------------------------------------------------------------------
+7)  Which method is used to suspend threads that don’t need to run when the applet is not visible? 
+
+a. destroy()
+b. paint()
+c. stop() - correct
+d. start()
+-----------------------------------------------------------------------
+8) When an applet begins, in which sequence will the AWT call the methods? 
+
+a. init(),paint(),start() - correct
+b. Start(),paint(),init()
+c. intit(),start(),paint()
+d. paint(),start(),init()
+-----------------------------------------------------------------------
+9) Which method is first Called for any applet when it starts its execution? 
+a. void init() - correct
+b. void destroy()
+c. boolean isActive()
+d. None of the above
+-----------------------------------------------------------------------
+10)
